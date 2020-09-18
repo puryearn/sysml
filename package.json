@@ -14,8 +14,7 @@
   "author": "Dana Zhang",
   "license": "MIT",
   "homepage": "https://github.com/webgme/webgme-sysml",
-  "dependencies": {
-  },
+  "dependencies": {},
   "peerDependencies": {
     "webgme": ">=2.8.0"
   },

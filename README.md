@@ -1,5 +1,5 @@
 # webgme-sysml
-SysML implementation using WebGME as a library
+Custom SysML implementation using WebGME as a library
 
 ## Installation
 
